@@ -605,12 +605,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7698c00d55a337048a11f99b19e7e83a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speedZombie: 3
+  speedZombie: 10
   damageZombie: 0
-  timeZombie: 10
+  timeZombie: 8
   Dificulty: 2
   NormalTime: 5
-  HardTime: 10
+  HardTime: 5
 --- !u!1 &2790545777495229279
 GameObject:
   m_ObjectHideFlags: 0

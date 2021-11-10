@@ -1648,7 +1648,8 @@ MonoBehaviour:
   damageZombie: 0
   timeZombie: 5
   Dificulty: 1
-  NormalTime: 5
+  NormalTime: 3
+  HardTime: 3
 --- !u!1 &7441800643159840449
 GameObject:
   m_ObjectHideFlags: 0

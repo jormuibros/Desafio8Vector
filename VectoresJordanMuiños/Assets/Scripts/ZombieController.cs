@@ -32,7 +32,7 @@ public class ZombieController : MonoBehaviour
                 timeZombie -= Time.deltaTime;
                 if (timeZombie > 0)
                 {
-                    MoveTowads();
+                    
                     LookAtLerp(Player);
                     //MoveEnemy(Vector3.forward);    
                 }
@@ -52,7 +52,7 @@ public class ZombieController : MonoBehaviour
             if (NormalTime > 0)
             {
                     MoveTowadsNormal();
-                LookAtLerp(Player);
+                
                 //MoveEnemy(Vector3.forward);    
             }
             else
